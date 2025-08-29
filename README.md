@@ -7,7 +7,7 @@ O objetivo deste projeto é praticar conceitos de estruturação com HTML, estil
 
 ## Pré-Visualização da Calculadora
 
-![Pré-Visualização da Calculadora](preview.png)
+![Pré-Visualização da Calculadora](images/preview.png)
 
 ---
 
